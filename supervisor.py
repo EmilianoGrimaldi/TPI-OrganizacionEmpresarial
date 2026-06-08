@@ -1,3 +1,8 @@
+from utilidades import *
+from estados import *
+from empleado import *
+from admin import *
+from baseDeDatos import leer_solicitudes, actualizar_estado_solicitud, actualizar_saldo, buscar_empleado
 
 def login_supervisor():
     """Autenticación simple del supervisor."""

@@ -1,3 +1,7 @@
+from utilidades import *
+from estados import * 
+from baseDeDatos import leer_empleados, leer_solicitudes
+
 def ver_reporte_general():
     """Vista general de todos los empleados y sus saldos."""
     limpiar()

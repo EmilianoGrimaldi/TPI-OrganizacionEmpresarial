@@ -1,4 +1,7 @@
 from utilidades import *
+from empleado import menu_empleado, login_empleado
+from supervisor import menu_supervisor
+from admin import ver_reporte_general
 
 def menu_principal():
     while True:
