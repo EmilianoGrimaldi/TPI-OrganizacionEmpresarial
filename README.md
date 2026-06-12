@@ -1,7 +1,7 @@
 # 🤖 Bot Gestor de Vacaciones — TechCorp S.A.
 
 > Trabajo Práctico Integrador — Organización Empresarial  
-> Tecnicatura Universitaria en Programación (TUP) — UTN 2025
+> Tecnicatura Universitaria en Programación (TUP) — UTN 2026
 
 ---
 
